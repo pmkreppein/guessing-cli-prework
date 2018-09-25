@@ -13,5 +13,6 @@ def run_guessing_game
           when "exit"
             puts "Goodbye!"
           else
-            
+            puts "The computer guessed #{rand_number_str}."
+        end    
 end
