@@ -1,4 +1,4 @@
 # Code your solution here!
 def run_guessing_game
-  rand_number = 
+  rand_number = rand
 end
