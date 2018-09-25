@@ -16,3 +16,5 @@ def run_guessing_game
             puts "The computer guessed #{rand_number_str}."
         end    
 end
+
+run_guessing_game()
