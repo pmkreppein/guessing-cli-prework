@@ -5,5 +5,7 @@ def run_guessing_game
   
   white True
     puts "Guess a number between 1 and 6."
+    guess = gets.chomp.to_i
+    
     
 end
